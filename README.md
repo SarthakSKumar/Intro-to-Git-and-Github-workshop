@@ -1,17 +1,6 @@
 ## Upcoming Workshop
 
-<!-- [Register Here](https://intro-to-git-may-2018.eventbrite.com.au/) -->
-
-
-
-**Location**
-
-ERC, Building 171, Level 3, Rooms 329 & 330
-
-[Visual Guide to Workshop Location from Swanston Tram Stop](https://tinyurl.com/tram2colab)
-
-[Visual Guide to Workshop Location from House of Cards](https://tinyurl.com/coffee2colab)
-
+[Register Here](https://bit.ly/3MiJhDp)
 
 
 ## Table of Contents
@@ -26,10 +15,7 @@ ERC, Building 171, Level 3, Rooms 329 & 330
 Introduction
 ----
 
-Thank you for your interest in Git!
-The information in this page is for people attending an
-_Introduction to Git and GitHub_ workshop with Research Platforms at University of Melbourne.
-
+Thank you for your interest in this workshop!
 Git is a system for managing snapshots of plain text projects.
 It is widely used in industry and academia for distributed collaboration amongst programmers.
 It is also useful to individuals who want to manage and back up plain text projects across multiple devices.
@@ -39,31 +25,6 @@ This workshop will provide a gentle introduction to Git and GitHub aimed at a ge
 Since Git is most often used in a text-based environment,
 we will also cover some simple use of the Unix command line.
 The goal of the workshop is that you will attain some idea of what Git is and how to begin using it.
-
-
-Workshop Requirements
-----
-
-It is easy for a workshop to get derailed by finicky technical issues caused by operating system differences or internet connection problems.
-You have some responsibility for ensuring you meet the workshop requirements.
-
-Please do the right thing by other attendees:
-
-**You must have all software installed and an internet connection established before the workshop begins.**
-
-
-### Internet Connection
-
-Anyone from University of Melbourne will probably connect using UniWireless.
-
-If you are from another university, _please arrive early_ to establish your EduRoam connection.
-
-In case you cannot connect to UniWireless or EduRoam,
-you should bring a device that can act as a hotspot.
-Most internet-enabled smartphones work well for this purpose.
-So long as you install all the required software ahead of time,
-the workshop will not require much download or upload expenditure.
-
 
 ### Required Software
 
@@ -76,43 +37,19 @@ You should also do some basic sanity checks to ensure that it works correctly.
 At a minimum, you must be able to open a terminal and run `git --version` without seeing any errors.
 You must also be able to edit plain text files.
 
-
 Text Editors
 ----
 
 The workshop will require you to have access to a _plain text editor_.
 Some common text editors include Notepad, Eclipse, Atom, Vim and Emacs.
-Some text editors are easier to use than others,
-and some offer more features.
+Some text editors are easier to use than others, and some offer more features.
 
 Notepad is easy to use but has minimal features.
-Vim and Emacs are hard for beginners to use, but they become more and more powerful with experience.
-
-For this workshop, we recommend [Atom](https://atom.io).
-
-Atom is a free, open source and cross platform text editor.
-It looks very pretty, it is very customisable with a lot of features and plugins available,
-it is easy to install, and it will work on everyone's laptop.
-You will be able to keep using it after the workshop is over, forever, without paying anything.
-
-If you already have some other preferred text editor,
-you may choose to use that in the workshop.
-However, if you run into problems, it is possible that no one will know how to help you.
-Furthermore, you might take workshop time away from the intended material,
-which is not fair on other attendees.
-
-So, only use an alternative text editor if you feel confident that you can solve any problems that could arise.
-
-**Note:** Do _not_ use a product such as Microsoft Word.
-A word processor is not the same as a text editor.
-The distinction will be explored in more detail in the workshop itself.
-
 
 Installing Git
 ----
 
-Although Git is cross platform,
-each operating system offers different installation methods.
+Although Git is cross platform, each operating system offers different installation methods.
 We are still evaluating which methods will be optimal for our workshops.
 
 Have a look through the available options and choose one that seems suitable to you.
@@ -127,7 +64,6 @@ You may need to try more than one to find a good fit for you and your system.
 
 There are two or three main ways to install Git in Windows,
 depending on which version of Windows you are running.
-
 
 #### Git for Windows
 
@@ -147,23 +83,6 @@ The following screenshots show the options we tested with.
 ![](./figures/terminalemulator.jpg)
 
 ![](./figures/configuringextraoptions.jpg)
-
-
-#### Cygwin
-
-Cygwin is a Unix environment for Windows.
-It is very powerful, but it can be a little tiresome to install.
-Its website is [http://cygwin.com/](http://cygwin.com/).
-
-When installing Cygwin, you are offered a choice of a large number of packages to install with it.
-You probably don't want to install all of them, since it will take too long to download them all,
-and most of them will just sit there taking up hard drive space without ever getting used.
-
-For the workshop, you will want the following packages:
-
-* Everything in `base`.
-* The packages `devel/git`, `net/openssl`, `doc/man-db` and `doc/man-pages-posix`.
-* The package `xxd`.
 
 
 #### Ubuntu for Windows 10
@@ -242,40 +161,17 @@ you probably know what you are doing and can find your own help :)
 Seeking Help
 ----
 
-The workshop instructor has a lot of experience with Linux,
-a little out-dated experience with Windows,
-and no experience whatsoever with Mac OS X.
-Therefore, the instructor's ability to solve problems you encounter on Macs and Windows
-would probably just amount to doing a bunch of Googling for you.
-
-Furthermore, the workshop instructor needs to dedicate their time and energy to
-developing workshop material, not acting as a helpdesk ;)
+The workshop instructor has a lot of experience with Windows, a little experience with Linux, and minimal experience with Mac OS X.
+Therefore, the instructor's ability to solve problems you encounter on Linux and Windows would probably just amount to doing a bunch of Googling for you.
 
 So, if you face some challenges when installing Git,
 please do your own Googling _first_,
-before contacting the workshop instructor for tech support.
+before contacting the workshop admins for tech support.
 
 However, if you have a problem that you just can't solve even after serious Googling for an hour or two,
 please definitely contact the instructor as soon as possible!
+
 We hope you can feel empowered to solve problems independently,
 but we don't want you to frustratedly bang your head against the wall for days :)
 
-* [Email](mailto:terice@unimelb.edu.au)
-* [Twitter](https://twitter.com/resnomicon)
-
 See you at the workshop!
-
-
-References
-----
-
-https://github.com/cryptarch/sgit.git
-https://daringfireball.net/projects/markdown/
-
-Github Cheat Sheet for Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-CC Licence: https://raw.githubusercontent.com/resbaz/intro-git-workshop/master/LICENSE.md
-
-http://phdcomics.com/comics/archive/phd101212s.gif
-
-http://swcarpentry.github.io/git-novice/02-setup/
