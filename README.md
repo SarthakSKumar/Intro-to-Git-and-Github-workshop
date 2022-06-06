@@ -161,7 +161,7 @@ you probably know what you are doing and can find your own help :)
 Seeking Help
 ----
 
-The workshop instructor has a lot of experience with Windows, a little experience with Linux, and minimal experience with Mac OS X.
+The workshop instructor has experience with Windows, a little experience with Linux, and minimal experience with Mac OS X.
 Therefore, the instructor's ability to solve problems you encounter on Linux and Windows would probably just amount to doing a bunch of Googling for you.
 
 So, if you face some challenges when installing Git,
