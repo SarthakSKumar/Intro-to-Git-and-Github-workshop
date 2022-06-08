@@ -41,7 +41,7 @@ Text Editors
 ----
 
 The workshop will require you to have access to a _plain text editor_.
-Some common text editors include Notepad, Eclipse, Atom, Vim and Emacs.
+Some common text editors include Notepad, VS Code, Atom, Vim and Emacs.
 Some text editors are easier to use than others, and some offer more features.
 
 Notepad is easy to use but has minimal features.
