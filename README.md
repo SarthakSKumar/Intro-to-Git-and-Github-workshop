@@ -67,7 +67,7 @@ depending on which version of Windows you are running.
 
 #### Git for Windows
 
-This is the easiest but least powerful method.
+This installer comes along with a CLI version of Git, which is quite powerful.
 Download the installer from https://git-for-windows.github.io/ and run it.
 
 You will be offered several options.
