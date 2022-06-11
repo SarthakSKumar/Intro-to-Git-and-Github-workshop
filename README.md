@@ -1,7 +1,8 @@
-## Upcoming Workshop
-
+## Introduction to Git and Github Workshop
+<p align = "center">
+<img src = ""/>
 [Register Here](https://bit.ly/3MiJhDp)
-
+</p>
 
 ## Table of Contents
 
