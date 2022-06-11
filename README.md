@@ -74,15 +74,15 @@ You will be offered several options.
 The default options should be safe.
 The following screenshots show the options we tested with.
 
-![](./Media/figures/Installation_options.jpg)
+![](./Media/figures/1.jpg)
 
-![](./Media/figures/lineendingconversion.jpg)
+![](./Media/figures/2.jpg)
 
-![](./Media/figures/OpenSSL.jpg)
+![](./Media/figures/3.jpg)
 
-![](./Media/figures/terminalemulator.jpg)
+![](./Media/figures/4.jpg)
 
-![](./Media/figures/configuringextraoptions.jpg)
+![](./Media/figures/5.jpg)
 
 
 #### Ubuntu for Windows 10
