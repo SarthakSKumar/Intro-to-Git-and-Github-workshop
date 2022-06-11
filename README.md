@@ -1,9 +1,8 @@
 <p align = "center">
 <img src = "https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/blob/master/Media/Files/Posters/Introduction%20to%20Git%20%26%20Github%20Banner%202.png"/>
   <a href = "https://bit.ly/3MiJhDp">Register Here</a>
-</p>
 
-## Table of Contents
+# Workshop Guide
 
 * [Introduction](#introduction)
 * [Text Editors](#text-editors)
