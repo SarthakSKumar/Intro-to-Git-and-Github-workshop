@@ -3,8 +3,3 @@ Format-
 Name: 
 Github Profile Link:
 ----------------------------
-
-----------------------------
-Name: Rajath Kumar J
-Github Profile Link: https://github.com/rajathcode
-----------------------------
