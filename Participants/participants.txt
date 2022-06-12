@@ -14,5 +14,7 @@ Name: Abhijith Hegde
 Github Profile Link:https://github.com/abhijithhegde
 ----------------------------
 Name: Abhay N Joshi
-Github Profile Link: https://github.com/Abhay-N-J
+Github Profile Link:https://github.com/abhijithhegde
 ----------------------------
+Name: Craig Fernandes
+Github Profile Link:https://github.com/craignigel
