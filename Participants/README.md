@@ -3,7 +3,7 @@
 </p>
 
 ## 📤 Contributing to the Repository
-We are so glad that you are interested in contributing to the this project.
+We are so glad that you are interested in contributing to this repo.
 We only have a couple of rules and we hope you enjoy the process :)
 
 ### Contributing Rules
@@ -13,7 +13,7 @@ We only have a couple of rules and we hope you enjoy the process :)
 ### Contributing Process
 1. Fork the repository
 2. Clone your forked repository to your computer
-3. Edit the participants.txt file inside the Participants directory.
+3. Edit the <b>participants.txt</b> file inside the Participants directory.
 4. Add your Name and Github Profile Link.
 5. Once done, push the code to your forked repository.
 6. Head to the Pull Requests tab and click on "Create New Pull Request"
