@@ -1,12 +1,10 @@
-## Upcoming Workshop
+<p align = "center">
+<img src = "https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/blob/master/Media/Files/Posters/Introduction%20to%20Git%20%26%20Github%20Banner%202.png"/>
+  <a href = "https://bit.ly/3MiJhDp">Register Here</a>
 
-[Register Here](https://bit.ly/3MiJhDp)
-
-
-## Table of Contents
+# Workshop Guide
 
 * [Introduction](#introduction)
-* [Workshop Requirements](#workshop-requirements)
 * [Text Editors](#text-editors)
 * [Installing Git](#installing-git)
 * [Seeking Help](#seeking-help)
