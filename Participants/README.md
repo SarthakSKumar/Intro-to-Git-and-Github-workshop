@@ -1,4 +1,8 @@
-## 📤 Contributing to Solving-CSP-using-RAT
+<p align = "center">
+<img src = "https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/blob/master/Media/Files/Posters/Introduction%20to%20Git%20%26%20Github%20Banner%202.png"/>
+</p>
+
+## 📤 Contributing to the Repository
 We are so glad that you are interested in contributing to the this project.
 We only have a couple of rules and we hope you enjoy the process :)
 
