@@ -32,7 +32,7 @@ More detailed software suggestions and instructions are below.
 You must have the software downloaded before the workshop.
 
 You should also do some basic sanity checks to ensure that it works correctly.
-At a minimum, you must be able to open a terminal and run `git --version` without seeing any errors.
+At a minimum, you must be able to open a terminal and run the `git --version` without seeing any errors.
 You must also be able to edit plain text files.
 
 Text Editors
@@ -47,7 +47,7 @@ Notepad is easy to use but has minimal features.
 Installing Git
 ----
 
-Although Git is cross platform, each operating system offers different installation methods.
+Although Git is cross-platform, each operating system offers different installation methods.
 We are still evaluating which methods will be optimal for our workshops.
 
 Have a look through the available options and choose one that seems suitable to you.
@@ -135,13 +135,13 @@ Once you can open a terminal,
 there are multiple methods for installing Git.
 [These instructions summarise the available methods.](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)
 
-The XCode method is probably simplest, although it is a very large download.
+The XCode method is probably the simplest, although it is a very large download.
 Homebrew is a popular alternative.
 
 
 ### Linux
 
-Since Git is used to version control Linux itself,
+Since Git is used to versioning control Linux itself,
 most Linux distributions make it very easy to install Git.
 
 If you are attending the workshop with a Debian-like laptop (for example, if it
@@ -153,7 +153,7 @@ To install Git from the command line in either Debian-like or Red Hat-like
 systems, see instructions [here](https://www.atlassian.com/git/tutorials/install-git#linux).
 
 If you are running some other distribution,
-you probably know what you are doing and can find your own help :)
+you probably know what you are doing and can find your help :)
 
 
 Seeking Help
