@@ -17,7 +17,10 @@ Name: Sourabh Shenoy
 Github Profile Link:https://github.com/sourabhshenoy04
 ----------------------------
 Name: Abhay N Joshi
-Github Profile Link: https://github.com/Abhay-N-J
+Github Profile Link:https://github.com/abhijithhegde
+----------------------------
+Name: Craig Fernandes
+Github Profile Link:https://github.com/craignigel
 ----------------------------
 Name: Shreya Mishra
 Github Profile Link: https://github.com/ishreya09
