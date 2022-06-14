@@ -1,3 +1,7 @@
+----------------------------
+Name:B. Ameeth Manoj
+Github Profile Link:https://github.com/ameethmanojbhuvanapalli
+----------------------------
 Name: Manas Gowda M
 Github Profile Link: https://github.com/Manas-Gowda
 ----------------------------
@@ -86,5 +90,5 @@ Name:M Rakshitha Prabu
 Github Profile Link: https://github.com/rakshiprabhu
 ----------------------------
 Name: Abhishek V Sagarnal
-Github Profile link:https://github.com/AbhishekVSagarnal/Abhishek.git
+Github Profile link:https://github.com/AbhishekVSagarnal/
 ----------------------------
