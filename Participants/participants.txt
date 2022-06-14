@@ -1,5 +1,12 @@
+----------------------------
+Name:B. Ameeth Manoj
+Github Profile Link:https://github.com/ameethmanojbhuvanapalli
+----------------------------
 Name: Manas Gowda M
 Github Profile Link: https://github.com/Manas-Gowda
+----------------------------
+Name: Y Karthik Ram Bhat
+Github Profile Link:https://github.com/cypherbb
 ----------------------------
 Name: Vishwas M
 Github Profile Link:https://github.com/Vishwas1451
@@ -18,6 +25,9 @@ Github Profile link: https://github.com/samridh3215
 ----------------------------
 Name: Abhijith Hegde
 Github Profile Link:https://github.com/abhijithhegde
+----------------------------
+Name:Vivek kumar
+Github Profile Link:https://github.com/1729-Vivek
 ----------------------------
 Name: Maitreyi Kar
 Github Profile Link:https://github.com/maitreyikar
@@ -61,6 +71,9 @@ Github Profile Link: https://github.com/Himank101
 Name: Sujan Shriyan
 Github Profile Link:https://github.com/sujan03
 ----------------------------
+Name: Rohith Reddy
+Github Profile Link: https://github.com/Rohith-999
+----------------------------
 Name: Aravilli Atchuta Ram
 Github Profile Link: https://github.com/a-atchuta-ram
 ----------------------------
@@ -79,6 +92,15 @@ Github Profile Link: https://github.com/Ashith05
 Name: Vivek Kumar
 Github Profile Link: https://github.com/1729-Vivek
 ----------------------------
+Name:M Rakshitha Prabu
+Github Profile Link: https://github.com/rakshiprabhu
+----------------------------
 Name: Abhishek V Sagarnal
-Github Profile link:https://github.com/AbhishekVSagarnal/Abhishek.git
+Github Profile link:https://github.com/AbhishekVSagarnal/
+----------------------------
+Name: Vishal S
+Github Profile Link: https://github.com/VishalS-HK
+----------------------------
+Name: Suhas K
+Github Profile Link: https://github.com/An-4lchemist
 ----------------------------
