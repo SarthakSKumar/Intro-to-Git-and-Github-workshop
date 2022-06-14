@@ -29,9 +29,6 @@ Github Profile link: https://github.com/samridh3215
 Name: Abhijith Hegde
 Github Profile Link:https://github.com/abhijithhegde
 ----------------------------
-Name:Vivek kumar
-Github Profile Link:https://github.com/1729-Vivek
-----------------------------
 Name: Maitreyi Kar
 Github Profile Link:https://github.com/maitreyikar
 ----------------------------
@@ -61,9 +58,6 @@ Github Profile Link: https://github.com/Shreya-Mandi
 ----------------------------
 Name: Keerthana N P
 Github Profile Link: https://github.com/KeerthanaNP15
-----------------------------
-Name: vivek kumar
-Github Profile Link: https://github.com/Vive007
 ----------------------------
 Name: Ankita Sahoo
 Github Profile Link: https://github.com/ankitacoder3
