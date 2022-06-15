@@ -104,5 +104,9 @@ Github Profile Link: https://github.com/VishalS-HK
 Name: Suhas K
 Github Profile Link: https://github.com/An-4lchemist
 ----------------------------
+Name: Dev Kothari
+Github Profile Link: https://github.com/devkothaaari
+-----------------------------
 Name: Ashwin Chandak
 Github Profile Link: https://github.com/ChandakAshwin
+----------------------------
