@@ -134,6 +134,9 @@ Github Profile Link: https://github.com/MustangBro7
 Name: Dev Kothari
 Github Profile Link: https://github.com/devkothaaari
 ----------------------------
+Name: Arish Kumar
+Github Profile Link: https://github.com/Jimzical
+----------------------------
 Name: Ashwin Chandak
 Github Profile Link: https://github.com/ChandakAshwin
 ----------------------------
