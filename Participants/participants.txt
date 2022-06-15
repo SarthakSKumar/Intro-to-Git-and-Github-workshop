@@ -106,3 +106,10 @@ Github Profile Link: https://github.com/An-4lchemist
 ----------------------------
 Name:Shubhambari K Shetty
 Github Profile Link: https://github.com/Shubhambarikshetty28
+----------------------------
+Name: Dev Kothari
+Github Profile Link: https://github.com/devkothaaari
+-----------------------------
+Name: Ashwin Chandak
+Github Profile Link: https://github.com/ChandakAshwin
+----------------------------
