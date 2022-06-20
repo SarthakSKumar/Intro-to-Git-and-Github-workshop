@@ -1,4 +1,10 @@
 ----------------------------
+Name: Sarang Kumar
+Github Profile Link: https://github.com/SarangKumar
+----------------------------
+Name: Pranav Desai
+Github Profile Link: https://github.com/dafylooper
+----------------------------
 Name:B. Ameeth Manoj
 Github Profile Link:https://github.com/ameethmanojbhuvanapalli
 ----------------------------
@@ -68,6 +74,39 @@ Github Profile Link: https://github.com/Prathamsshetty
 Name: Himank Bansal
 Github Profile Link: https://github.com/Himank101
 ----------------------------
+Name: Gaurav Agrawal
+Github Profile Link: https://github.com/Gauravag6432
+----------------------------
+Name: A Sanath Hoysala
+Github Profile Link: https://github.com/sanath-hoysala
+----------------------------
+Name: Adarsh Kamath
+Github Profile Link: https://github.com/Adarshkamath2
+----------------------------
+Name: Harsha C
+Github Profile Link: https://github.com/Dev-sAHSRAH
+----------------------------
+Name:Preethi. M
+Github Profile link: https://github.com/p760
+----------------------------
+Name: Adarsh Kumar
+Github Profile Link: https://github.com/Adarsh275
+-----------------------------
+Name: Chaithra
+Github Profile Link: https://github.com/Chaithra007
+----------------------------
+Name:CHANDANA CH
+Github Profile Link:https://github.com/chchandana53
+----------------------------
+Name: Vanishka Gupta
+Github Profile Link: https://github.com/vanishkag
+----------------------------
+Name: Pragnya Vempati
+Github Profile Link: https://github.com/Prax0028
+----------------------------
+Name : Aprameya P Bhat
+Github Profile Link:ame :https://github.com/4nm21cs032
+----------------------------
 Name: Sujan Shriyan
 Github Profile Link:https://github.com/sujan03
 ----------------------------
@@ -104,7 +143,57 @@ Github Profile Link: https://github.com/VishalS-HK
 Name: Suhas K
 Github Profile Link: https://github.com/An-4lchemist
 ----------------------------
-----------------------------
 Name: Nishan Holla
 Github Profile Link: https://github.com/NishanHolla
+----------------------------
+Name: Akshitha Rao
+Github Profile Link: https://github.com/AkshithaRao123
+----------------------------
+Name: T Tushar Shenoy
+Github Profile Link:https://github.com/tusharshenoy
+----------------------------
+Name: Jitesh D Sanil
+Github Profile Link: https://github.com/Jitesh-01
+----------------------------
+Name : Pratham K R
+Github Profile Link: https://github.com/prathamkr-code
+----------------------------
+Name: Sheetal B
+Github Profile Link: https://github.com/shee-tal-b
+----------------------------
+Name: Rajath Kumar J
+Github Profile Link: https://github.com/rajathcodes
+----------------------------
+Name:Joshua DSouza
+Github Profile Link: https://github.com/joshua-009
+----------------------------
+Name:Writvan Ghosh
+Github Profile Link: https://github.com/writvan
+----------------------------
+Name: Pushpesh Kumar
+Github Profile Link: https://github.com/Pushpesh987
+----------------------------
+Name:Shubhambari K Shetty
+Github Profile Link: https://github.com/Shubhambarikshetty28
+----------------------------
+Name: Shreya P Rao
+Github Profile Link: https://github.com/shreya-spr
+----------------------------
+Name: Deepshika Poojary
+Github Profile Link: https://github.com/deepshika-p
+----------------------------
+Name: Abhinav Mohan
+Github Profile Link: https://github.com/MustangBro7
+----------------------------
+Name: Dev Kothari
+Github Profile Link: https://github.com/devkothaaari
+----------------------------
+Name: Arish Kumar
+Github Profile Link: https://github.com/Jimzical
+----------------------------
+Name: Keshav Agrawal 
+Github Profile Link:https://github.com/Keshav1105
+----------------------------
+Name: Ashwin Chandak
+Github Profile Link: https://github.com/ChandakAshwin
 ----------------------------

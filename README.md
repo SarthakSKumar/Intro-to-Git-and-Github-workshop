@@ -173,3 +173,6 @@ We hope you can feel empowered to solve problems independently,
 but we don't want you to frustratedly bang your head against the wall for days :)
 
 See you at the workshop!
+  
+## Repo Contributors ❤️
+  <img src = "https://contrib.rocks/image?repo=SarthakSKumar/Intro-to-Git-and-Github-workshop"/>
