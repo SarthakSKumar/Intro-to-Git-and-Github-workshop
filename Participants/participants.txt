@@ -143,6 +143,9 @@ Github Profile Link: https://github.com/VishalS-HK
 Name: Suhas K
 Github Profile Link: https://github.com/An-4lchemist
 ----------------------------
+Name: Akshitha N
+Github Profile Link: https://github.com/AkshithaN/
+-----------------------------
 Name: Chockalingam Annamalai
 Github Profile Link:https://github.com/imperiooo
 ----------------------------
