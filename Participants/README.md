@@ -25,4 +25,4 @@ We only have a couple of rules and we hope you enjoy the process :)
 It's that easy! We hope you enjoy contributing to the repository. Don't hesitate to contact any of the maintainers about any problems!
 
 ## Repo Contributors ❤️
-  <img src = "https://contrib.rocks/image?repo=SarthakSKumar/Intro-to-Git-and-Github-workshop" height = 100 width = 100/>
+  <img src = "https://contrib.rocks/image?repo=SarthakSKumar/Intro-to-Git-and-Github-workshop"/>
