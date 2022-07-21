@@ -1,7 +1,9 @@
 <p align = "center">
 <img src = "https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/blob/master/Media/Files/Posters/Introduction%20to%20Git%20%26%20Github%20Banner%202.png"/>
-  <a href = "https://bit.ly/3MiJhDp">Register Here</a>
+  <a href = "https://bit.ly/3MiJhDp">Registration Link</a></p>
 
+# Watch the workshop session <a href = "https://bit.ly/3xJJnhP">here</a>
+  
 # Workshop Guide
 
 * [Introduction](#introduction)
@@ -173,3 +175,6 @@ We hope you can feel empowered to solve problems independently,
 but we don't want you to frustratedly bang your head against the wall for days :)
 
 See you at the workshop!
+  
+## Repo Contributors ❤️
+  <img src = "https://contrib.rocks/image?repo=SarthakSKumar/Intro-to-Git-and-Github-workshop"/>
